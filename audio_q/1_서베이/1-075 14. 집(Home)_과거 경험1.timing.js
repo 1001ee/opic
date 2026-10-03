@@ -1,0 +1,1 @@
+window.OPIC_T&&OPIC_T("1-075",[0.0, 2.5, 7.99],"exact");
